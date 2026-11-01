@@ -106,14 +106,23 @@ cap.release()
 
 ## Output
 
-1.  **Image Acquisition:** The webcam captures a frame and saves it as
-    `my.jpeg`. The captured image is displayed with the title *Captured
-    Frame*.
-2.  **Video Display:** The webcam video is displayed frame by frame.
-3.  **Resized Video:** The video frames are resized to 100 × 150 pixels
-    and displayed.
-4.  **Rotated Video:** The video frames are rotated 90 degrees clockwise
-    and displayed.
+**Image Acquisition:**
+
+<img width="677" height="545" alt="image" src="https://github.com/user-attachments/assets/a539f355-e072-4bd7-806f-73a99f48fd99" />
+
+
+**Video Display:**
+
+<img width="415" height="317" alt="image" src="https://github.com/user-attachments/assets/f30e737d-fa70-4d11-bd7b-2fa94b843631" />
+
+**Resized Video:** 
+
+<img width="228" height="313" alt="image" src="https://github.com/user-attachments/assets/1ab325a7-d04d-4edd-a129-3ee6c0102d9f" />
+
+**Rotated Video:**
+   
+<img width="243" height="316" alt="image" src="https://github.com/user-attachments/assets/ea1c5449-11b2-4ff1-8526-c767e92bb107" />
+
 
 *Note: The output is displayed live when the program is executed with a
 working webcam. The notebook contains visual outputs for these
