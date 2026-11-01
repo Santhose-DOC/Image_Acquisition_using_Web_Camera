@@ -124,9 +124,6 @@ cap.release()
 <img width="243" height="316" alt="image" src="https://github.com/user-attachments/assets/ea1c5449-11b2-4ff1-8526-c767e92bb107" />
 
 
-*Note: The output is displayed live when the program is executed with a
-working webcam. The notebook contains visual outputs for these
-operations.*
 
 ## Result
 
